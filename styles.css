@@ -23,7 +23,12 @@ article > section {
     font-family:'Courier New', Courier, monospace;
     margin: 2%;
 }
+.food.linked {
+    height: 250px;
+    width: 250px;
+}
 
 html {
     background-color: black;
 }
+

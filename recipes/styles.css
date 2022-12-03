@@ -1,0 +1,17 @@
+.food.linkedSB {
+    height: 350px;
+    width: 250px;
+    align-items: center;
+}
+
+.food.linkedMC {
+    height: 250px;
+}
+
+html {
+    background-color: black;
+}
+
+body {
+    color: white;
+}
