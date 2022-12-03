@@ -1,0 +1,21 @@
+.food.proportioned {
+    height: 250px;
+    width: 250px;
+}
+body {
+    text-align: center;
+}
+nav {
+    margin-bottom: 1.5em;
+}
+article {
+    font-size: 0; /*fix white space*/
+}
+article > section {
+    font-size: 16px;
+    display: inline-block;
+    width: 250px;
+    border: 1px outset black;
+    padding: 30px;
+    box-sizing: border-box;
+}
