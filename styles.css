@@ -2,6 +2,7 @@
     height: 250px;
     width: 250px;
     border-radius: 50%;
+    margin: 2%;
 }
 body {
     text-align: center;
@@ -16,7 +17,13 @@ article > section {
     font-size: 16px;
     display: inline-block;
     width: 250px;
-    border: 1px outset black;
+    border: 1px outset white;
     padding: 30px;
     box-sizing: border-box;
+    font-family:'Courier New', Courier, monospace;
+    margin: 2%;
+}
+
+html {
+    background-color: black;
 }
